@@ -20,6 +20,11 @@
     "canvas",
     "expo"
   ],
+  "peerDependencies": {
+    "react": ">=15",
+    "react-native": ">=0.57 <0.59",
+    "react-native-webview": ">=5.2.4"
+  },
   "author": "YanYuanFE",
   "license": "MIT",
   "bugs": {
